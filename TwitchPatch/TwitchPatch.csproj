@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>TwitchPatch.ico</ApplicationIcon>
+    <Company>Hiteke#8281</Company>
+    <Authors>Hiteke#8281</Authors>
+  </PropertyGroup>
+
+</Project>
